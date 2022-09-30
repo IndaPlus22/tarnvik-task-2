@@ -1,0 +1,1 @@
+/Users/tilde/Documents/KTH/DD1337\ -\ Programmering/Rust/tarnvik-task-2/avstand_till_kanten/target/debug/avstand_till_kanten: /Users/tilde/Documents/KTH/DD1337\ -\ Programmering/Rust/tarnvik-task-2/avstand_till_kanten/src/main.rs
